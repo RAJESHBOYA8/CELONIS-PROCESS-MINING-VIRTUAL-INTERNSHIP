@@ -24,8 +24,8 @@ BADGES :
 1. (https://www.credly.com/earner/earned/badge/d633dc65-69d2-4e40-9bb4-fbf6801c2496)
 ![image](https://github.com/user-attachments/assets/ee1a3f0c-11dc-4cf5-8f5c-cd21718fab4c) 
 
-2. (https://www.credly.com/earner/earned/badge/2093ceb8-5b10-4a2c-94ea-6fac6eed187c)
-![image](https://github.com/user-attachments/assets/ea6a5284-629a-43e1-b7fc-668d22275b83) 
+2. ![image](https://github.com/user-attachments/assets/9a9d0a10-4332-4253-bf67-3af465be546e)
+![Uploading image.png…]()
  
  
 
