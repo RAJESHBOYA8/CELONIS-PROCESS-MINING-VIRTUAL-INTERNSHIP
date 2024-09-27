@@ -1,5 +1,4 @@
 # CELONIS Process Mining Virtual Internship
-![image](https://github.com/user-attachments/assets/2d8d2c0a-bea8-4ac1-bef5-0a829370bccd) ![image](https://github.com/user-attachments/assets/a4228d34-f294-491e-ae6a-708728bf27b7)
 
 ## Overview
 This repository showcases my participation in the **CELONIS Process Mining Virtual Internship**. Throughout this immersive program, I explored the dynamic field of process mining, gaining essential skills to analyze and optimize business processes. The internship involved hands-on learning experiences that emphasized the importance of data in driving business success.
@@ -23,15 +22,11 @@ This repository showcases my participation in the **CELONIS Process Mining Virtu
 ## Certificates
 BADGES : 
 1. (https://www.credly.com/earner/earned/badge/d633dc65-69d2-4e40-9bb4-fbf6801c2496)
-![image](https://github.com/user-attachments/assets/ee1a3f0c-11dc-4cf5-8f5c-cd21718fab4c) ![image](https://github.com/user-attachments/assets/3c5ddd4a-43e4-4169-8936-0ca7fcb7cd22)
+![image](https://github.com/user-attachments/assets/ee1a3f0c-11dc-4cf5-8f5c-cd21718fab4c) 
 
 2. (https://www.credly.com/earner/earned/badge/2093ceb8-5b10-4a2c-94ea-6fac6eed187c)
-![image](https://github.com/user-attachments/assets/ea6a5284-629a-43e1-b7fc-668d22275b83) ![image](https://github.com/user-attachments/assets/d6559cb0-12bc-46e5-8828-ca04e50ae220)
-
-## INTERNSHIP CERTIFICATE
-![WhatsApp Image 2024-09-28 at 00 19 36_00b6da5e](https://github.com/user-attachments/assets/04c1bc04-6c3c-4af7-8cc2-faefd5db3071)
-
-  
+![image](https://github.com/user-attachments/assets/ea6a5284-629a-43e1-b7fc-668d22275b83) 
+ 
  
 
 ### Additional Achievements
