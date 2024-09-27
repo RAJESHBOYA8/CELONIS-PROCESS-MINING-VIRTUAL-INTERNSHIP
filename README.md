@@ -21,13 +21,9 @@ This repository showcases my participation in the **CELONIS Process Mining Virtu
 
 ## Certificates
 BADGES : 
-1. (https://www.credly.com/earner/earned/badge/d633dc65-69d2-4e40-9bb4-fbf6801c2496)
-![image](https://github.com/user-attachments/assets/ee1a3f0c-11dc-4cf5-8f5c-cd21718fab4c) 
+1.  (https://www.credly.com/earner/earned/badge/d633dc65-69d2-4e40-9bb4-fbf6801c2496) ![academic-process-mining-fundamentals (2)](https://github.com/user-attachments/assets/4c8fdff6-7041-489e-b9dc-a89c9536ae8e)
 
-2. ![image](https://github.com/user-attachments/assets/9a9d0a10-4332-4253-bf67-3af465be546e)
-![Uploading image.png…]()
- 
- 
+2.![academic-process-mining-fundamentals (1)](https://github.com/user-attachments/assets/c6d9e867-75a8-419d-b23d-538645ce6dd3) https://www.credly.com/earner/earned/badge/d633dc65-69d2-4e40-9bb4-fbf6801c2496
 
 ### Additional Achievements
 - **Hands-On Projects:** Completed various practical exercises that allowed me to apply theoretical knowledge to real-world scenarios, reinforcing my understanding of process mining.
@@ -37,4 +33,4 @@ BADGES :
 ## Conclusion
 Participating in the CELONIS Process Mining Virtual Internship has been a transformative experience that enriched my knowledge of data analytics and its applications in business process optimization. I am eager to apply these skills in future projects and professional opportunities.
 
-This internship has not only prepared me for a career in data analytics but has also fueled my passion for continuous learning and professional development in this exciting field.![Uploading image.png…]()
+This internship has not only prepared me for a career in data analytics but has also fueled my passion for continuous learning and professional development in this exciting field.
